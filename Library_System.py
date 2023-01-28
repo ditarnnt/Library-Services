@@ -65,3 +65,4 @@ class Library:
             data = pd.DataFrame(self.buku_dipinjam).T
             data.columns = ['Tahun Terbit', 'Jumlah Buku']
             print(data.to_markdown())
+
