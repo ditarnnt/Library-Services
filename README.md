@@ -1,5 +1,6 @@
 # Library-Services
 Case 2: Library Services
+
 Background Project
 Zaki adalah pemilik beberapa perpustakaan mini di kota A. Zaki merasa akhir-akhir ini ada beberapa buku yang hilang sehingga Zaki berencana untuk mengorganisir data buku. Namun karena Zaki tidak tahu apa-apa mengenai IT, Zaki membutuhkan bantuan Anda sebagai programmer Python
 
